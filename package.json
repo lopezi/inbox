@@ -1,11 +1,14 @@
 {
   "name": "inbox",
   "version": "1.0.0",
-  "description": "",
+  "description": "Ethereum dapps 101",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Lopezi",
+  "license": "MIT",
+  "dependencies": {
+    "solc": "^0.4.24"
+  }
 }
